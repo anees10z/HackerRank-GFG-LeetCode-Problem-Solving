@@ -63,8 +63,8 @@ Hence, we return `3`.
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 98.38%)  
-**Memory:** 43.8 MB (beats 91.23%)  
-**Submitted:** 2026-11-12T13:11:45.141Z  
+**Memory:** 43.8 MB (beats 85.71%)  
+**Submitted:** 2026-11-12T13:12:13.769Z  
 
 ```java
 class Solution {
